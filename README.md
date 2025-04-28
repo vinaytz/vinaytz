@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Dreamer+%7C+Doer+%7C+Developer;Building+Tech+and+Ideas+🚀;Learning+Everyday+💻" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/online-games-addiction_23-2148518571.jpg?t=st=1745824702~exp=1745828302~hmac=570eb3830c538adc655645f72e04d2ef11021f2b7224241f7564ab121552f746&w=740">
 
 ---
 
