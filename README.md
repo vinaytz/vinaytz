@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Vinay</h1>
 <h3 align="center">🚀 Tech Enthusiast | Web Developer | Space Lover | Future Entrepreneur</h3>
-https://github.com/vinaytz/vinaytz/blob/main/README.md
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Dreamer+%7C+Doer+%7C+Developer;Building+Tech+and+Ideas+🚀;Learning+Everyday+💻" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="400" style="border-radius: 50px;" src="https://img.freepik.com/free-vector/online-games-addiction_23-2148518571.jpg?t=st=1745824702~exp=1745828302~hmac=570eb3830c538adc655645f72e04d2ef11021f2b7224241f7564ab121552f746&w=740">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
