@@ -16,7 +16,7 @@
 - 🌌 Space & Tech are my soul
 - 🔥 Startup mentality
 - 💬 Ask me about web dev, arduino projects, AI models!
-- 📫 How to reach me: **developervinaytz@example.com**
+- 📫 How to reach me: **developervinaytz@gmail.com**
 - 🌐 Portfolio: [Your Portfolio](http://portfolioz-eight.vercel.app/)
 
 ---
