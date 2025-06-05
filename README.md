@@ -38,53 +38,12 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&margin-w=4" />
-</p>
-
----
-
-## 🐍 Contribution Snake Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://twitter.com/YOUR-TWITTER" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="twitter" /></a>
-<a href="https://your-portfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-12100E?style=flat-square&logo=dev.to&logoColor=white" alt="portfolio" /></a>
+<a href="https://www.linkedin.com/in/vinaytz/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://twitter.com/vinaaytzz" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="twitter" /></a>
+<a href="http://portfolioz-eight.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-12100E?style=flat-square&logo=dev.to&logoColor=white" alt="portfolio" /></a>
 </p>
 
 ---
