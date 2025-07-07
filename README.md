@@ -1,13 +1,6 @@
 <h1 align="center">Hey 👋, I'm Vinay Tiwari</h1>  
 <h3 align="center">🚀 Developer | 🌌 Astrophile | 🛠️ Builder | 🔥 Future Founder</h3>
 
----
-
-<p align="center">
-  <em>"Not here to take part, I'm here to take over."</em><br/>
-</p>
-
----
 
 ### 🚀 About Me
 
