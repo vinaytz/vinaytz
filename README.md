@@ -36,10 +36,11 @@ const vinay = {
 
 ### 🔥 My Projects
 
-- ⏱️ **2030 Productivity App** – Timer-based task manager with auto-complete ⏳  
-- 🧠 **Smart Door Lock** – Face Recognition + Arduino + Flask + WhatsApp alerts 🔐  
-- 💬 **Chat App** – Firebase-based real-time chat system  
-- 📦 **Moxoz** – Upcoming productivity startup brand
+📱 No-UI File Access App – Remote phone file access via browser
+💬 Chat App – Real-time Firebase chat
+🛠️ Widget System – Phone/laptop widgets with custom tools
+🌐 Job Portal – Built for UP candidates (UpJobYojana)
+🧠 Smart Door Lock – Arduino + Face Recognition + Flask
 
 ---
 
