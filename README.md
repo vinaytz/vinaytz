@@ -11,6 +11,7 @@
 - 🎯 Ultimate goal: **Build a product that changes the game**
 
 <img align="center" alt="GIF" height="200px" width="400px" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" />
+
 ---
 
 ### 🧠 Tech Stack
