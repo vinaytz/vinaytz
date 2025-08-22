@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Vinay Tiwari</h1>  
-<h3 align="center">🚀 Developer | 🌌 Astrophile | 🛠️ Builder | 🔥 Future Founder</h3>
+<h3 align="center">🚀 Developer | 🌌 Astrophile | 🛠️ Builder</h3>
 
 
 ### 🚀 About Me
